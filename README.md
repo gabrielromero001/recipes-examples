@@ -23,7 +23,7 @@ Your contribution to MLflow Recipes is greatly appreciated by the community!
 - [**Regression**: NYC taxi fare prediction](regression/README.md)
 - [**Classification**: Wine Quality multiclassification](classification/README.md)
 
-## Installation instructions
+## Installation instructions 2
 To use MLflow Recipes in this example repository,
 simply install the packages listed in the `requirements.txt` file. Note that `Python 3.8` or above is required.
 ```
