@@ -19,7 +19,7 @@ For suggestions on improvements,
 please file a discussion topic [here](https://github.com/mlflow/mlflow/discussions).
 Your contribution to MLflow Recipes is greatly appreciated by the community!
 
-## Example Projects
+## Example Projects 2
 - [**Regression**: NYC taxi fare prediction](regression/README.md)
 - [**Classification**: Wine Quality multiclassification](classification/README.md)
 
